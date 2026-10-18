@@ -1,0 +1,22 @@
+{
+  "wheel_id": 424,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-102",
+  "project": "retaining-walls-canberra-planning-guide-7ae7977b59e6c3975c59b07",
+  "parent_t1_ref": "retainingwallcanberra-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra planning guide",
+  "intended_url": "https://sitesau.github.io/retainingwallcanberra-102/",
+  "tier": "T2",
+  "writeback_nonce": "956d97fe766cdafc",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-canberra-54db94bdf1d1343b70e03a8faa84a97fc3ee96/",
+      "anchor": "this retaining walls canberra resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
